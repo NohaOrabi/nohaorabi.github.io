@@ -6,7 +6,7 @@ about:
   template: trestles
   links:
       - icon: linkedin
-        href: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
+        href: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BqYG6thD%2FTzW0KYBO7eNpEQ%3D%3D
       - icon: Practice website
         href: https://www.orabiorthodontics.com
       - icon: github
@@ -32,9 +32,11 @@ Orabi Orthodontics is dedicated to providing exceptional care and the smile to m
 
 **[Download my CV](cv.pdf)**
   
+## My Blog
 
+[Visit my Orthodontic Blog](https://nohaorabi.github.io/Orthodontic-Blog)
 ---
 
-*Last updated: October 2025*
+*Last updated: March 2026*
 
 
