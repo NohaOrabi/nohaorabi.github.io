@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Noha Orabi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: education.qmd
+        text: Education & Experience
+      - href: projects.qmd
+        text: Projects
+      - text: "Blog"
+        href: https://nohaorabi.github.io/Orthodontic-Blog 
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
+      - icon: Practice website
+        href: https://www.orabiorthodontics.com
+      - icon: github
+        href: https://nohaorabi.github.io/nohaorabi.github.io-LabX/ 
+      - icon: envelope
+        href: mailto:ngo2@case.edu
+
+format:
+  html:
+    theme: sandstone 
+    backgroundcolor: "#ffffff"
+    fontcolor: "#333333"
+    linkcolor: "#558b2f"
+    fontsize: "1.1em"
+    linestretch: 1.7
+    mainfont: "Arial"
+    monofont: "Arial"
+    fontfamily: "Arial"
+    maxwidth: "1200px"  
+    toc: true
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
