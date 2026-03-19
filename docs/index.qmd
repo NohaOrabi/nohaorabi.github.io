@@ -34,7 +34,7 @@ Orabi Orthodontics is dedicated to providing exceptional care and the smile to m
   
 ## My Blog
 
-[Visit my Orthodontic Blog](https://nohaorabi.github.io/Orthodontic-Blog)
+[Visit my Orthodontic Blog](https://nohaorabi.github.io/jekyll-now/First-Blog/)
 ---
 
 *Last updated: March 2026*
