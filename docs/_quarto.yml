@@ -15,7 +15,7 @@ website:
       - href: projects.qmd
         text: Projects
       - text: "Blog"
-        href: https://nohaorabi.github.io/Orthodontic-Blog 
+        href: https://nohaorabi.github.io/jekyll-now/First-Blog/ 
     right:
       - icon: linkedin
         href: https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit
